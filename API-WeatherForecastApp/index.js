@@ -70,6 +70,4 @@ search.addEventListener('click', () => {
 
 
         });
-
-
 });
